@@ -11,6 +11,9 @@ before_script:
 install:
   - sudo apt-get install python python-tk idle python-pmw python-imaging
   - sudo apt-get install -qq libegl1-mesa
+  - pip install pandas
+  - pip install --only-binary=numpy,scipy numpy scipy
+  - pip install -U scikit-learn
 
 script:
   - nosetests Occupancy.py
