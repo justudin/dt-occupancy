@@ -19,8 +19,7 @@ and to create the graphic of the tree you must have graphviz/dot installed.
 
 ### 1. Run script from command line
 
-This provides an example of using the available functions-- look at lines
-122-143 to see what is done.
+This provides an example of using the available functions.
 
 ```bash
 $ python Occupancy.py
@@ -31,7 +30,7 @@ This:
 * Fetches the data using pandas, or grabs the local copy.
 * Outputs the *head* of the pandas data frame.
 * Fits the decision tree and outputs the *pseudo code* for the decision tree.
-* Uses pandas to show that the first branch at *PetalLength <= 2.45* is easily
+* Uses pandas to show that the first branch at *Light <= 365.125* is easily
   verified.
 
 The resulting output is:
