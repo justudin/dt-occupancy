@@ -1,4 +1,4 @@
-# decision trees: scikit-learn + pandas
+# decision trees: scikit-learn + pandas [![Build Status](https://travis-ci.org/justudin/dt-occupancy.svg?branch=master)](https://travis-ci.org/justudin/dt-occupancy)
 
 This script provides an example of learning a decision tree with
 scikit-learn.  Pandas is used to read data and custom functions are employed
