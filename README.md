@@ -8,10 +8,10 @@ it out.
 
 ## Requirements
 
-* python -- developed with 2.7.6
-* sckit-learn -- using version 0.16.1
-* pandas -- using version 0.16.1
-* numpy -- using version 1.9.2
+* python -- version 2.7.6 or 3.x.x just fine
+* sckit-learn
+* pandas
+* numpy
 
 and to create the graphic of the tree you must have graphviz/dot installed.
 
@@ -495,3 +495,5 @@ else {
 }
 >>> occ.visualize_tree(dt, features)
 ```
+
+Thanks for stopping by!
