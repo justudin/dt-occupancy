@@ -9,7 +9,6 @@
     Required libraries: pandas, numpy sklearn, PIL, graphviz (dot)
 
     Copyright © 2016 Udin <just.udin@yahoo.com>
-    Distributed under terms of the MIT license.
 
 """""
 
