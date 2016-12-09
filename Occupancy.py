@@ -6,8 +6,6 @@
 
     Dataset from https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+
 
-    Compatible with Python 3.x
-
     Required libraries: pandas, numpy sklearn, PIL, graphviz (dot)
 
     Copyright © 2016 Udin <just.udin@yahoo.com>
